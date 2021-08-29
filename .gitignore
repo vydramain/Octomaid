@@ -1,6 +1,6 @@
 # Files to ignore when considering what GIT should commit.
 
-# Visual Studio 
+# Visual Studio
 *.suo
 *.user
 *.sln.docstates
@@ -54,3 +54,9 @@ config.cfg
 # shader files
 *.tmp
 
+# projects builds
+sp/game/*
+mp/game/*
+
+# project files
+*.project
