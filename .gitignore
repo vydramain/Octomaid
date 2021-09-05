@@ -20,6 +20,9 @@ ipch
 *.vcxproj
 *.sln
 
+# Atom
+.ccls-cache/
+
 # OSX/Linux build products
 *.mak
 *.mak.vpc_crc
